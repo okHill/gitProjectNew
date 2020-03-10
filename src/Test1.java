@@ -8,7 +8,7 @@ public class Test1 {
         System.out.println("Local edded Fifth test class");
         System.out.println("Local added Sixth class");
         
-        System.out.println("Master added the seventh);
+        System.out.println("Master added the seventh");
 
     }
 }
